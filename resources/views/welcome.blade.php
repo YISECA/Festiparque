@@ -10,7 +10,8 @@
 
     <div class="panel panel-default">
 
-        <div class="panel-heading">Inicio</div>
+        <div class="panel-heading" style="font-family: arial; font-size: 18px"><center>CENTRO HISTÓRICO LA CANDELARIA – FESTIPARQUE <br>
+                    LA ACTIVIDAD CULTURAL Y RECREATIVA MÁS ESPERADA POR TODAS LAS FAMILIAS BOGOTANAS<br>Domingo 05 de Noviembre de 2017 </center></div>
 
         <div class="panel-body">
 
@@ -19,8 +20,6 @@
                 <div class="freebirdFormviewerViewHeaderHeader">
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
-
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>RIO SAN FRANCISCO O VICACHA Domingo 01 de Octubre de 2017</h3></div>
 
                     </div>
 <br>
@@ -32,21 +31,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/rio.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/festi.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/rio1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/festi1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/rio2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/festi2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -74,29 +73,20 @@
 
                     <div class="freebirdFormviewerViewHeaderDescription" dir="auto">
 
-                        <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El sendero del río San Francisco o Vicachá está ubicado en la localidades de Candelaria y Santafé que marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el canon entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta confluye por debajo de la tierra con el río San Agustín.</p>
+                        <h4>Ubicación</h4>
+
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">La localidad 17 La Candelaria está ubicada en el centro oriente de Bogotá; Allí tienen lugar los acontecimientos históricos, políticos y sociales determinantes para nuestro país; Desde la fundación de la ciudad más importante en El Reino de la Nueva Granada, hasta las manifestaciones socio-políticas del siglo XXI. En el recorrido se puede observar diferentes estilos arquitectónicos, Iglesias con siglos de antigüedad, calles empedradas y conocer una gran oferta cultural.</p>
                        
-                        <h3>Descripción del recorrido </h3>
+                        <h4>Descripción del recorrido </h4>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones asi como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecucion. Se dará inicio a la caminata desde la carrera 7ª con avenida Jimenez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por en bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</p>
-
-                        <h3>Durante el recorrido se visitaran los siguientes aspectos:</h3>
-                        <ul class="ul_inicio">
-                            <font style="font-size: 11pt; line-height: 25px;">
-                            <li>Mirador </li>
-                            <li>Históricos </li>
-                            <li>Culturales</li>
-                            <li>Arquitectónicos</li>
-                            <li>Hídricos</li>
-                            <li>Ambientales </li>
-                            <li>Ecosistema de niebla y sub - páramo</li>
-                            </font>
-                        </ul>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la plaza de Bolivar en el marco del “FESTIPARQUE”, el gran encuentro recreo-deportivo que promueve la integración familiar y la participación comunitaria a través de diferentes alternativas recreativas, allí  el guía de caminatas del IDRD dará las recomendaciones propias y necesarias para su ejecución y se dará inicio al recorrido.<br>
+                        Se describe la historia de la plaza, sus sucesos más relevantes y su entorno: Catedral Primada, Capilla del Sagrario, Palacio Arzobispal, Colegio San Bartolomé, Capitolio Nacional, Casa de los comuneros, Palacio Liévano – Alcaldía Mayor de Bogotá, Palacio de Justicia y la casa del florero – Museo de la independencia. Se toma la calle 10 hacia al oriente describiendo lugares tan importantes como al iglesia de San Ignacio, la plazoleta Rufino José Cuervo, la casa donde vivió Manuelita Sáenz, el palacio de San Carlos y el fantástico teatro Colón. Luego se toma la Cra 7 hacia al sur hasta la iglesia de San Agustín describiendo procesos históricos dados en el interior y al rededores del palacio de Nariño, se retorna a la plaza de Bolivar por la Cra 8; donde el contraste entre el observatorio astronómico y la presencia de las Clarisas describen momentos históricos fascinantes.
+</p>
+    
                         <br>
 
-                        <font size="3"><center><table width="1000">
+                        <font size="3"><center><table width="900">
 
                             <col width="281">
 
@@ -106,13 +96,13 @@
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Punto de encuentro</p>
+                                            <p style="font-size: 11pt">Punto de encuentro</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Plazoleta del Rosario, frente a la estación Museo del Oro.</p>
+                                            <p style="font-size: 11pt">Plaza de Bolivar - FESTIPARQUE</p>
 
                                         </td>
 
@@ -122,13 +112,13 @@
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Fecha</p>
+                                            <p style="font-size: 11pt">Fecha</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 01 de Octubre de 2017</p>
+                                            <p style="font-size: 11pt">Domingo 05 de Noviembre de 2017</p>
 
                                         </td>
 
@@ -138,13 +128,13 @@
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Hora de encuentro</p>
+                                            <p style="font-size: 11pt">Hora de encuentro</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>8:00 a.m</p>
+                                            <p style="font-size: 11pt">8:00 a.m</p>
 
                                         </td>
 
@@ -154,13 +144,13 @@
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Cupo Máximo</p>
+                                            <p style="font-size: 11pt">Cupo Máximo</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>40 Personsa</p>
+                                            <p style="font-size: 11pt">40 Personsa</p>
 
                                         </td>
 
@@ -170,92 +160,52 @@
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Rango de Edad</p>
+                                            <p style="font-size: 11pt">Rango de Edad</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12 - 60 años</p>
+                                            <p style="font-size: 11pt"><strong>“APTA PARA TODA LA FAMILIA”</strong></p>
 
                                         </td>
 
                                     </tr>
-
+   
                                     <tr valign="top">
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Nivel</p>
+                                            <p style="font-size: 11pt">Tiempo de recorrido</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Medio</p>
-
-                                        </td>
-
-                                    </tr>   
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Temperatura</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>14°C </p>
+                                            <p style="font-size: 11pt">2 horas</p>
 
                                         </td>
 
                                     </tr> 
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Altitud</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>2.800 m.s.n.m</p>
-
-                                        </td>
-
-                                    </tr> 
-                       
 
                         </table></center></font>
-
-                        <h3>Recomendaciones</h3>
+                        <h4>Recomendaciones</h4>
 
                         <ul class="ul_inicio">
 
                             <font  style="font-size: 11pt; line-height: 25px">
 
-                                <li>Llevar ropa cómoda</li>
+                                <li>Llevar ropa y calzado cómodo</li>
                             
-                                <li>Llevar bloqueador solar</li>
-
-                                <li>Hidratación</li>
-
-                                <li>Calzado cómodo</li>
+                                <li>Llevar bloqueador solar e Hidratación</li>
 
                                 <li>Llevar carné de la eps</li>
 
-                                <li>Refrigerio.</li>
+                                <li>Medicamentos personales, si son de consumo frecuente</li>
 
-                                <li>Medicamentos personales </li>
+                                <li>Abstenerse de participar personas que tengan problemas de salud complejos</li>
 
-                                <li>No llevar mascotas </li>
-
-                                <li>Abstenerse de participar mujeres en estado de embarazo, personas que tengan problemas cardiacos y de rodillas y que sufran de asma y/o vértigo</li>
-
-                                <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
+                                <li><ins>PARTICIPAR CON ENERGÍA DE LAS DEMAS ACTIVIDADES DEL FESTIPARQUE</ins></li>
 
                                 <!--<li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>-->
                             </font>
